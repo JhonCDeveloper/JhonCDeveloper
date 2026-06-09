@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1400&color=4AABF7&background=0D111700&center=true&vCenter=true&width=700&lines=Software+Development+%2F%2F+AI+Integration+%2F%2F+Cybersecurity;Building+tools+that+think%2C+automate%2C+and+adapt.;The+interesting+problems+live+at+the+intersection." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1800&color=4AABF7&background=0D111700&center=true&vCenter=true&width=750&lines=I+build+software.+Sometimes+it+thinks.;Most+bugs+are+just+questions+without+answers+yet.;AI+is+a+tool.+Knowing+when+not+to+use+it+matters+more.;The+system+works+until+you+understand+why." />
 
 <br/>
 
@@ -66,19 +66,9 @@ A few are experiments that went further than expected.
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonCDeveloper&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonCDeveloper&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=4AABF7&fire=4AABF7&currStreakLabel=4AABF7&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonCDeveloper&theme=github_dark" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonCDeveloper&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonCDeveloper&theme=github-dark-blue&hide_border=true&stroke=4AABF7&ring=4AABF7&fire=4AABF7&currStreakLabel=4AABF7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonCDeveloper&theme=github-compact&hide_border=true&color=4AABF7&line=4AABF7&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonCDeveloper&theme=github-compact&hide_border=true&color=4AABF7&line=4AABF7&point=4AABF7" />
 </p>

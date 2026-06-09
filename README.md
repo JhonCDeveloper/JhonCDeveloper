@@ -63,6 +63,38 @@ A few are experiments that went further than expected.
 
 ---
 
+## Projects
+
+<p align="center">
+  <a href="https://portfolio-v2-0-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4AABF7?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=4AABF7" />
+  </a>
+  &nbsp;
+  <a href="https://attackmind.onrender.com">
+    <img src="https://img.shields.io/badge/AttackMind-0d1117?style=flat-square&logo=hackthebox&logoColor=4AABF7&labelColor=0d1117&color=4AABF7" />
+  </a>
+  &nbsp;
+  <a href="https://eventger-js-integrative-project-tesla.onrender.com/#/login">
+    <img src="https://img.shields.io/badge/EventgerJS-0d1117?style=flat-square&logo=javascript&logoColor=4AABF7&labelColor=0d1117&color=4AABF7" />
+  </a>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/jhon-cadavid-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=4AABF7&labelColor=0d1117&color=4AABF7" />
+  </a>
+  &nbsp;
+  <a href="mailto:jhoncadavid.cv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=4AABF7&labelColor=0d1117&color=4AABF7" />
+  </a>
+</p>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">

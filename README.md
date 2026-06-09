@@ -1,51 +1,92 @@
 <div align="center">
 
-# Building software and exploring intelligent systems
+# Jhon Cadavid
+
+### Software Development • AI Automation • Cybersecurity
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Building+things+and+breaking+them+apart;Exploring+AI-powered+applications;Learning+cybersecurity+one+lab+at+a+time;Automating+what+shouldn't+be+done+twice" />
 
 </div>
 
-I enjoy understanding how things work, how they break, and how they can be improved.
+---
 
-Currently focused on software development, AI-powered applications, automation, and cybersecurity.
+## Current Focus
+
+```yaml
+software_development:
+  status: active
+
+ai_automation:
+  status: active
+
+cybersecurity:
+  status: learning
+
+curiosity:
+  status: permanent
+```
 
 ---
 
-## Current interests
+## Tech Arsenal
 
-* Artificial Intelligence
-* Automation
-* Software Architecture
-* React
-* OpenAI SDK
-* Cybersecurity
-* Business Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,mysql,linux,docker,vscode" />
+</p>
 
----
-
-## What you'll find here
-
-Projects, experiments, prototypes, and the occasional unfinished idea.
-
-Some repositories exist because they solved a problem.
-
-Others exist because I wanted to understand how something worked.
-
-Both are worth keeping.
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" />
+</p>
 
 ---
 
-## Learning
+## What You'll Find Here
 
-Right now I'm spending most of my time studying:
+Projects, experiments, prototypes and unfinished ideas.
 
-* Modern web development
-* AI integrations
-* Automation workflows
-* Security fundamentals
-* System design
+Some repositories were built to solve problems.
+
+Others were built simply to understand how something works.
 
 ---
 
-## A simple principle
+## Interests
 
-Technology should help people make better decisions, not just produce more information.
+- Artificial Intelligence
+- Automation
+- Software Architecture
+- Cybersecurity
+- Business Systems
+- Decision-Making Frameworks
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## System Status
+
+```bash
+$ status
+
+Building.............ACTIVE
+Learning.............ACTIVE
+Experimenting........ACTIVE
+Curiosity............ACTIVE
+```

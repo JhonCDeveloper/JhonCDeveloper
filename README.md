@@ -1,59 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=2000&color=4AABF7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami;%3E+jhon-cadavid+%E2%80%94+software+dev+%2B+ai+integration" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=3000&color=8b949e&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+production-grade+systems+at+the+intersection+of+software+and+AI." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1800&color=4AABF7&background=0D111700&center=true&vCenter=true&width=750&lines=I+build+software.+Sometimes+it+thinks.;Most+bugs+are+just+questions+without+answers+yet.;AI+is+a+tool.+Knowing+when+not+to+use+it+matters+more.;The+system+works+until+you+understand+why." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open_to_work-2ea043?style=flat-square&labelColor=0d1117&logo=checkmarx&logoColor=2ea043" />
+<img src="https://img.shields.io/badge/status-building-4AABF7?style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Medellín,_Colombia-0d1117?style=flat-square&logo=googlemaps&logoColor=4AABF7" />
-&nbsp;
-<img src="https://img.shields.io/badge/EN_|_ES-0d1117?style=flat-square&logo=googletranslate&logoColor=8b949e" />
+<img src="https://img.shields.io/badge/Medellín%2C_Colombia-0d1117?style=flat-square&logo=googlemaps&logoColor=4AABF7" />
 
 </div>
 
 ---
 
-## Stack
+## Current Focus
 
 ```yaml
-languages:   [JavaScript, TypeScript, Python]
-frontend:    [React, HTML, CSS]
-backend:     [FastAPI, Node.js]
-ai:          [LangChain, OpenAI, RAG, FAISS, TTS]
-data:        [MySQL, FAISS]
-infra:       [Docker, Linux, Git]
-learning:    [Red Team, Ethical Hacking]
+software_development:
+  stack: [React, TypeScript, Python, FastAPI]
+  status: active
+
+ai_integration:
+  tools: [LangChain, OpenAI, RAG, FAISS]
+  status: active
+
+cybersecurity:
+  path: ethical_hacking → red_team
+  status: learning
+
+curiosity:
+  status: permanent
 ```
 
 ---
 
-## Projects
+## Tech Arsenal
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,html,css,git,github,mysql,linux,docker,vscode&theme=dark" />
+</p>
 
-**[AttackMind](https://attackmind.onrender.com)**  
-AI-powered cybersecurity learning platform.  
-Tool calling · RAG · FastAPI
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square&labelColor=0d1117&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=flat-square&labelColor=0d1117&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&labelColor=0d1117&logoColor=white" />
+</p>
 
-`Python` `LangChain` `FastAPI` `React`
+---
 
-</td>
-<td width="50%" valign="top">
+## What You'll Find Here
 
-**[EventgerJS](https://eventger-js-integrative-project-tesla.onrender.com/#/login)**  
-Event management system with full auth flow.  
-REST API · Role-based access
+Some repositories were built to solve real problems.  
+Others exist only to understand how something works.  
+A few are experiments that went further than expected.
 
-`JavaScript` `Node.js` `MySQL` `React`
-
-</td>
-</tr>
-</table>
+> Code is a thinking tool. The artifact is secondary.
 
 ---
 
@@ -66,23 +72,3 @@ REST API · Role-based access
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonCDeveloper&theme=github-compact&hide_border=true&color=4AABF7&line=4AABF7&point=4AABF7" />
 </p>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://portfolio-v2-0-two.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4AABF7" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/jhon-cadavid-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4AABF7" />
-</a>
-&nbsp;
-<a href="mailto:jhoncadavid.cv@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4AABF7" />
-</a>
-
-</div>

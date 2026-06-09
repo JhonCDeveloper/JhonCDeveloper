@@ -66,8 +66,13 @@ A few are experiments that went further than expected.
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JhonCDeveloper&show_icons=true&theme=github_dark&hide_border=true&title_color=4AABF7&icon_color=4AABF7&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCDeveloper&layout=compact&theme=github_dark&hide_border=true&title_color=4AABF7&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonCDeveloper&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonCDeveloper&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JhonCDeveloper&theme=github_dark" />
 </p>
 
 <p align="center">
